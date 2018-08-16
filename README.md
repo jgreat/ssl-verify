@@ -4,7 +4,7 @@ Small utility to verify ssl certificate chains, before you install them.
 
 ## Installation
 
-Download the appropriate binary for your system and place it in your `${PATH}`.
+Download the appropriate binary for your system.  Rename the file to `ssl-verify` and place it in your `${PATH}`.
 
 * [Linux](https://github.com/jgreat/ssl-verify/releases/download/0.0.1/ssl-verify.linux.amd64)
 * [OSX](https://github.com/jgreat/ssl-verify/releases/download/0.0.1/ssl-verify.darwin.amd64)
