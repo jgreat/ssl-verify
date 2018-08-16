@@ -1,6 +1,6 @@
 # ssl-verify
 
-Small utility to verify ssl certificate chains, before you install them.
+Small utility to verify ssl certificate chains before you install them.
 
 ## Installation
 
